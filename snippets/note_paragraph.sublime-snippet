@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+{
+  "type":        "paragraph",
+  "content":     "${1:This is where you'd add some text you want admin to read.}",
+  "info":        "${0:Note to admin (optional)}"
+},
+]]></content>
+<tabTrigger>ngs.note_paragraph</tabTrigger>
+<scope>source.json</scope>
+</snippet>

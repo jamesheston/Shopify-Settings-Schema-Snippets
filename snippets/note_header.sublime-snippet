@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+{
+  "type":        "header",
+  "content":     "${1:Header Text}",
+  "info":        "${0:Note to admin (optional)}"
+},
+]]></content>
+<tabTrigger>ngs.note_header</tabTrigger>
+<scope>source.json</scope>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[
+{
+  "type":        "collection",
+  "id":          "${1:setting_id}",
+  "label":       "${2:Input Label Text}",
+  "default":     "${3:value}",
+  "info":        "${4:Note to admin (optional)}"
+},
+]]></content>
+<tabTrigger>ngs.collection</tabTrigger>
+<scope>source.json</scope>
+</snippet>

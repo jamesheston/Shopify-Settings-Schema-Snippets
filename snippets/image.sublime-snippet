@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[
+{
+  "type":        "image",
+  "id":          "${1:asset_filename.png}",
+  "label":       "${2:Input Label Text}",
+  "max-width":   ${3:256},
+  "max-height":  ${0:256},
+  "info":        "Recommended size - width: $0770px, height: 70px"
+},
+]]></content>
+<tabTrigger>ngs.image</tabTrigger>
+<scope>source.json</scope>
+</snippet>

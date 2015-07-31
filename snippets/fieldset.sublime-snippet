@@ -1,0 +1,20 @@
+<snippet>
+<content><![CDATA[
+//------------------------------
+// ${1:Fieldset Title} Fieldset
+//------------------------------
+{
+  "name": "${1:Fieldset Title}",
+  "settings": [
+    ${0:{
+      "type": "color",
+      "id": "background_color",
+      "label": "Background color",
+      "default": "#ffffff"
+    \}}
+  ]
+}// ${1:Fieldset Title} Fieldset
+]]></content>
+<tabTrigger>ngs.fieldset</tabTrigger>
+<scope>source.json</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+// placeholder so we don't have to worry about trailing commas above
+{
+  "type":        "paragraph",
+  "content":     "."
+}
+]]></content>
+<tabTrigger>ngs.note_placeholder</tabTrigger>
+<scope>source.json</scope>
+</snippet>

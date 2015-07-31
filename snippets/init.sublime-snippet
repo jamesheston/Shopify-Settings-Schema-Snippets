@@ -1,0 +1,26 @@
+<snippet>
+<content><![CDATA[
+[
+  {
+    "name": "Colors & Style",
+    "settings": [
+      {
+        "type": "color",
+        "id": "background_color",
+        "label": "Background color",
+        "default": "#ffffff"
+      },
+      {
+        "type": "color",
+        "id": "link_color",
+        "label": "Unvisited link color",
+        "default": "#0000FF",
+        "info": "This color will be used for unvisited links in your theme."
+      }
+    ]
+  }
+]
+]]></content>
+<tabTrigger>ngs.init</tabTrigger>
+<scope>source.json</scope>
+</snippet>

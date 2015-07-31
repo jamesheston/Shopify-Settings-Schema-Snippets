@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[
+{
+  "type":        "textarea",
+  "id":          "${1:setting_id}",
+  "label":       "${2:Input Label Text}",
+  "default":     "${3:default_value}",
+  "info":        "${0:Note to admin (optional)}"
+},
+]]></content>
+<tabTrigger>ngs.textarea</tabTrigger>
+<scope>source.json</scope>
+</snippet>
